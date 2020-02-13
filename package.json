@@ -1,0 +1,14 @@
+{
+    "name": "Tugas1-Biodata",
+    "version": "1.0.0",
+    "description": "Tugas 1 PBKK membuat biodata dengan Electron JS",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "Thisa Nabil",
+    "license": "ITS",
+    "dependencies": {
+        "electron": "^8.0.0"
+    }
+}
