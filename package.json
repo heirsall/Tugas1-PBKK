@@ -9,6 +9,6 @@
     "author": "Thisa Nabil",
     "license": "ITS",
     "dependencies": {
-        "electron": "^8.0.0"
+        "electron": "^15.5.5"
     }
 }
